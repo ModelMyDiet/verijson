@@ -1,3 +1,13 @@
+
+#clone from: https://bitbucket.org/dcutting/verijson
+# to-do list
+1. 支持异步解析
+2. 支持友好的出错提示
+3. 在数组的情况下，支持脏数据item跳过
+4. 支持数据清洗
+5. 支持错误模式文件的验证，提取错误信息
+
+
 # VeriJSON
 
 An Objective-C library for verifying JSON against a pattern-based schema.
